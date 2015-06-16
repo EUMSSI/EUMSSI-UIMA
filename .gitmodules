@@ -1,0 +1,6 @@
+[submodule "uima-nerl"]
+	path = uima-nerl
+	url = https://github.com/GLiCom/uima-nerl.git
+[submodule "babelfy-uima"]
+	path = babelfy-uima
+	url = https://github.com/GLiCom/babelfy-uima.git
