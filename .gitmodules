@@ -4,3 +4,6 @@
 [submodule "babelfy-uima"]
 	path = babelfy-uima
 	url = https://github.com/GLiCom/babelfy-uima.git
+[submodule "uima-opinion"]
+	path = uima-opinion
+	url = https://github.com/GLiCom/uima-opinion.git
