@@ -7,3 +7,6 @@
 [submodule "uima-opinion"]
 	path = uima-opinion
 	url = https://github.com/GLiCom/uima-opinion.git
+[submodule "dbpedia-spotlight"]
+	path = dbpedia-spotlight
+	url = https://github.com/jgrivolla/dbpedia-spotlight.git
