@@ -16,3 +16,6 @@
 [submodule "uima-ts"]
 	path = uima-ts
 	url = https://github.com/EUMSSI/EUMSSI-UIMA-TS.git
+[submodule "eumssi-pipelines"]
+	path = eumssi-pipelines
+	url = https://github.com/EUMSSI/EUMSSI-UIMA-pipelines.git
