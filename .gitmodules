@@ -10,3 +10,9 @@
 [submodule "dbpedia-spotlight"]
 	path = dbpedia-spotlight
 	url = https://github.com/jgrivolla/dbpedia-spotlight.git
+[submodule "uima-io"]
+	path = uima-io
+	url = https://github.com/EUMSSI/EUMSSI-UIMA-IO.git
+[submodule "uima-ts"]
+	path = uima-ts
+	url = https://github.com/EUMSSI/EUMSSI-UIMA-TS.git
