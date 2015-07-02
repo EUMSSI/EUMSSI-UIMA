@@ -13,10 +13,10 @@
     <modules>
         <module>babelfy-uima</module>
         <module>dbpedia-spotlight</module>
+        <module>uima-ts</module>
         <module>uima-io</module>
         <module>uima-nerl</module>
         <module>uima-opinion</module>
-        <module>uima-ts</module>
     </modules>
 
     <build>
