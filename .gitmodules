@@ -19,3 +19,9 @@
 [submodule "eumssi-pipelines"]
 	path = eumssi-pipelines
 	url = https://github.com/EUMSSI/EUMSSI-UIMA-pipelines.git
+[submodule "MalletAnnotator"]
+	path = MalletAnnotator
+	url = https://github.com/EUMSSI/MalletAnnotator.git
+[submodule "KEAAnnotator"]
+	path = KEAAnnotator
+	url = https://github.com/EUMSSI/KEAAnnotator.git
