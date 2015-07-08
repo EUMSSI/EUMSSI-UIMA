@@ -19,7 +19,7 @@
         <module>uima-ts</module>
         <module>uima-io</module>
         <module>uima-nerl</module>
-        <module>uima-opinion</module>
+        <!-- module>uima-opinion</module -->
         <module>MalletAnnotator</module>
         <module>eumssi-pipelines</module>
     </modules>
