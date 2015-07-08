@@ -12,7 +12,10 @@
 
     <modules>
         <module>babelfy-uima</module>
-        <module>dbpedia-spotlight</module>
+        <!-- disabled due to Java 8 incompatibility
+             compile separately with Java 7
+          <module>dbpedia-spotlight</module>
+        -->
         <module>uima-ts</module>
         <module>uima-io</module>
         <module>uima-nerl</module>
