@@ -9,11 +9,11 @@ The actual components are hosted in separate individual repositories and include
 
 Check out the repository using `git clone --recursive` to obtain all submodules.
 
-Update repository using `git pull --recurse-submodules`.
+Update repository using `./update-all.sh`.
 
 Compile and install everything using `mvn clean install` from the repository root.
 
-See https://git-scm.com/book/en/v2/Git-Tools-Submodules for more information on using git submodules.
+See https://git-scm.com/book/en/v2/Git-Tools-Submodules or https://medium.com/@porteneuve/mastering-git-submodules-34c65e940407 for more information on using git submodules.
 
 ## Advanced
 
