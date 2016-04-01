@@ -25,3 +25,9 @@
 [submodule "KEAAnnotator"]
 	path = KEAAnnotator
 	url = https://github.com/EUMSSI/KEAAnnotator.git
+[submodule "QuoteAnnotator"]
+	path = QuoteAnnotator
+	url = https://github.com/EUMSSI/QuoteAnnotator.git
+[submodule "OfficeHolderAnnotor"]
+	path = OfficeHolderAnnotor
+	url = https://github.com/EUMSSI/OfficeHolderAnnotor.git
