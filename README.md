@@ -1,6 +1,8 @@
 EUMSSI UIMA components
 ======================
 
+[![Join the chat at https://gitter.im/EUMSSI/EUMSSI-UIMA](https://badges.gitter.im/EUMSSI/EUMSSI-UIMA.svg)](https://gitter.im/EUMSSI/EUMSSI-UIMA?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 This is a meta-repository that contains (links to) the UIMA components used for the EUMSSI.
 
 The actual components are hosted in separate individual repositories and included as submodules (maintained by the EUMSSI project or externally). Additionally a `pom.xml` is provided to compile all needed components with a single command.
